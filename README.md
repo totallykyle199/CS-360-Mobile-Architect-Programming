@@ -1,8 +1,8 @@
 # CS-360-Mobile-Architect-Programming
 
 - Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
- -The requirments for the Event tracker app was to have a login screen, a screen to add information on a grid or list that stays persistant, and a screen to request notification permission.
-  The app is designed to have a place for users to keep track of their upcoming events.
+The requirments for the Event tracker app was to have a login screen, a screen to add information on a grid or list that stays persistant, and a screen to request notification permission.
+The app is designed to have a place for users to keep track of their upcoming events.
 
   - What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
    -
